@@ -11,6 +11,13 @@ Android: Press anywhere on screen to turn sound on/off.
 
 Firestick/GoogleTv: Arrow Up to turn sound on/off
 
+Background Color Shortcuts:
+
+Android: 2 Finger press for black/white
+
+Firestick/GoogleTv: Arrow Down for black/white
+
+
 I hope you guys find it useful!
 
 Inspired by: Ted Martens, George Ford, Wally Hall, Fabien Sanglard
