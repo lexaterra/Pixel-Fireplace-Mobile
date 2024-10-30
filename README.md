@@ -3,7 +3,13 @@ A Pixel Fireplace for Android, Firestick, and GoogleTV
 
 https://youtu.be/OZAAvMQCQ_M?feature=shared
 
-I've created this minimal pixel fireplace for Android. It's 100% free. I did all the coding and used android studio to package the app. It's not a video or animated gif. It was designed using the popular "Doom Fire" algorithm. It works with Amazon Firestick too!
+I've created this minimal pixel fireplace for Android. It's 100% free. I did all the coding and used android studio to package the app. It's not a video or animated gif. It was designed using the popular "Doom Fire" algorithm. It also works with Amazon Firestick and Google Tv!
+
+Sound Shortcuts:
+
+Android: Press anywhere on screen to turn sound on/off.
+
+Firestick/GoogleTv: Arrow Up to turn sound on/off
 
 I hope you guys find it useful!
 
