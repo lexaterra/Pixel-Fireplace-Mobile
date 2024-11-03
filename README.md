@@ -2,7 +2,7 @@
 A Pixel Fireplace for Android, Firestick, and GoogleTV
 
 
-[MEDIA=youtube] https://youtu.be/4AzJNPXveT0?[/MEDIA]
+[MEDIA]https://youtu.be/4AzJNPXveT0?[/MEDIA]
 
 
 
