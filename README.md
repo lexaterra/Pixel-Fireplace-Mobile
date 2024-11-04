@@ -1,8 +1,8 @@
 # Pixel-Fireplace-Mobile
 A Pixel Fireplace for Android, Firestick, and GoogleTV
 
-https://youtu.be/A6EXCOhAn9s?feature=shared
 
+https://youtu.be/Id3KS_wkvU0?feature=shared
 
 I've created this minimal pixel fireplace for Android. It's 100% free. I did all the coding and used android studio to package the app. It's not a video or animated gif. It was designed using the popular "Doom Fire" algorithm. It also works with Amazon Firestick and Google Tv!
 
